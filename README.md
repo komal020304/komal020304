@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about **Web Development and Machine Learning**
 - 📫 How to reach me: **komalnichat02@gmail.com**
 - 😄 Pronouns: She/Her
--/*⚡ Fun fact: ...*/
 
 
 
